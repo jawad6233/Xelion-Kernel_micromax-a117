@@ -1,0 +1,1 @@
+cmd_mediatek/kernel/drivers/fmradio/mtk_fm_drv.ko := arm-linux-androideabi-ld.bfd -EL -r  -T /home/zfh/mtk_android/PRJ/9204_blu/kernel_opensource/alps/kernel/scripts/module-common.lds --build-id  -o mediatek/kernel/drivers/fmradio/mtk_fm_drv.ko mediatek/kernel/drivers/fmradio/mtk_fm_drv.o mediatek/kernel/drivers/fmradio/mtk_fm_drv.mod.o
